@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://cdn.magicdecor.in/com/2023/02/30013507/image-1680801451-9637.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    margin: 85px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    width: 20rem;
+}
+.card h4, p{
+    color: rgb(132, 199, 235);
+    font-family: "Protest Revolution", sans-serif;  
+}
+.card .form-label{    
+    font-family: "Protest Revolution", sans-serif;
+}
+.card a{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 5px;
+    color: rgb(205, 230, 245);
+    font-family: "Protest Revolution", sans-serif;
+}
+.reg{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    width: 100%;
+    font-family: "Jost", sans-serif;
+}
+.file{
+    font-family: "Jost", sans-serif;
+}
+.avatar img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
